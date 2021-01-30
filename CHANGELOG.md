@@ -13,6 +13,7 @@ When updating the changelog, remember to be very clear about what behavior has c
 and what APIs have changed, if applicable.
 
 ## [Unreleased]
+- Add support for update, partial_update, delete and get_all methods in fluent API bindings.
 
 ## [29.14.5] - 2021-02-11
 - Shortcircuit already serialized projection params
